@@ -2,7 +2,7 @@
 
 ### <h1 align="center">Hey, I'm Unbottled ✌️  
 
-### <div align="center">A full-time coffee consumer ☕, Creator of weird projects 🤪 and Hater of Arch Linux Users.</div>  
+### <div align="center">A full-time coffee consumer ☕, Creator of weird projects and Hater of Arch Linux Users.</div>  
   
 <br/> 
 
@@ -10,12 +10,6 @@
   
 
 - 🌱 I’m currently trying to understand why people use Arch Linux.  
-  
-
-- ❓ Ask me about anything related to <i>Attack on Titan</i>.  
-  
-
-- ⚡ Fun fact: I use Vim with VScode 😎.  
   
 
  
